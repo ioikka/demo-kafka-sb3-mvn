@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "app.consumer.group.id",
+      "type": "java.lang.String",
+      "description": "Description for app.consumer.group.id."
+  }
+] }
